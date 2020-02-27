@@ -1,0 +1,17 @@
+﻿  Auteur.cpp
+  Film.cpp
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Film.cpp(61,27): warning C4458: declaration of 'paysRestreints_' hides class member
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\include\film.h(49,29): message : see declaration of 'Film::paysRestreints_'
+  GestionnaireAuteurs.cpp
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\GestionnaireAuteurs.cpp(15,33): warning C4458: declaration of 'auteurs_' hides class member
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\include\GestionnaireAuteurs.h(25,12): message : see declaration of 'GestionnaireAuteurs::auteurs_'
+  Librairie.cpp
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(184,25): error C2065: 'nbFilms_': undeclared identifier
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(186,16): error C2065: 'films_': undeclared identifier
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Librairie.cpp(189,5): error C2065: 'nbFilms_': undeclared identifier
+  main.cpp
+  Utilisateur.cpp
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Utilisateur.cpp(15,49): warning C4100: 'film': unreferenced formal parameter
+  Generating Code...
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\Utilisateur.cpp(23): error C4716: 'Utilisateur::filmEstDisponible': must return a value
+C:\Users\Admin\Music\Programmation orienté-objet\inf1010\TP1-H20\TP1-H20-Windows\TP1-H20\src\GestionnaireAuteurs.cpp(86): warning C4715: 'GestionnaireAuteurs::chargerDepuisFichier': not all control paths return a value
